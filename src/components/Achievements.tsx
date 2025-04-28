@@ -16,7 +16,7 @@ const Achievements: React.FC = () => {
     {
       id: 'tech-saviskaar',
       title: 'Tech SaviSkaar 3.0 Winner',
-      description: 'First Runner Up in Tech SaviSkaar 3.0 hackathon for an innovative solution.',
+      description: 'First Runner Up in Tech SaviSkaar 3.0 National Level hackathon for an innovative solution.',
       icon: <Award size={24} />,
       color: 'bg-blue-500',
       year: '2025'
@@ -24,7 +24,7 @@ const Achievements: React.FC = () => {
     {
       id: 'sih-2024',
       title: 'SIH 2024 Winner',
-      description: 'Winner of Smart India Hackathon 2024 at IIT Gandhinagar for developing BHASHA_SETU, an inclusive language learning application.',
+      description: 'Winner of Smart India National Level Hackathon 2024 at IIT Gandhinagar for developing BHASHA_SETU, an inclusive language learning application.',
       icon: <Trophy size={24} />,
       color: 'bg-yellow-500',
       year: '2024'
